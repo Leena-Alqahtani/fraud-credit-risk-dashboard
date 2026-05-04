@@ -1,3 +1,5 @@
+# Fraud & Credit Risk Dashboard
+
 ## Overview
 This project analyzes fraud patterns across transaction data to identify high-risk behaviors, peak fraud periods, and geographic concentrations using interactive dashboards.
 
